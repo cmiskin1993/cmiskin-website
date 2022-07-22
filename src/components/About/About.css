@@ -1,0 +1,13 @@
+h2{
+    color: black ;
+    font-family: "Roboto";
+    font-size: 30px;
+    line-height: 1.3em;
+    position: absolute;
+    width: 50%;
+    height: 0%;
+    padding-left: 3em;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
